@@ -1,0 +1,1 @@
+This repository and its contents are an archive intended for educational or read-only use. It is a collection of work that was done during developmental stages of learning and applying skills, and none of it is intended to be a product or be used to create products.
