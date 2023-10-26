@@ -1,11 +1,9 @@
-# puter-games-archive
+# Early Computer Games
 
 All of these projects are incomplete works recovered from old hard drives, and is intended for educational use only.
-
-- Order them by time
+Order them by time
 
 # Not done
-Axio
 Lgi
 Skyfar
 Xyglass
