@@ -1,21 +1,2 @@
 # Early Computer Games
-
-All of these projects are incomplete works recovered from old hard drives, and is intended for educational use only.
-Order them by time
-
-# Not done
-Lgi
-Skyfar
-Xyglass
-
-# DONE
-Wombo Hunter (2011)
-The bubble (2011)
-Abomination (2011)
-Ripple (2011)
-Snack Web (2011)
-Aliens (2012)
-Atlantis (2012)
-Hobbitron (2012)
-Ascension (2013)
-Red Particle (2016)
+This repository is a collection of incomplete works, recovered from old hard drives, and is intended for educational/historical purposes. These are games I tried making in middle school and high school, before learning Unreal Engine and programming. They are only Windows executables, some of them may not work. I've given each of these projects their own README with a basic overview of what I remember. I think honestly this is only 20% of what I actually made, these are just the only projects that had working files and that I remembered. Hopefully there is something to enjoy or learn from here; if not, just a little memory lane for me haha
